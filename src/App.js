@@ -20,9 +20,9 @@ function App() {
     if (!!url) {
       Jimp.read(url)
         .then((base) => {
-          const img = base.resize(256, 256)
-          for (let i = 0; i < 256; i++) {
-            for (let j = 0; j < 256; j++) {
+          const img = base.resize(128, 128)
+          for (let i = 0; i < 128; i++) {
+            for (let j = 0; j < 128; j++) {
               const hex = img.getPixelColor(i, j).toString(16)
               const value = hex
               newPixels.push(value)

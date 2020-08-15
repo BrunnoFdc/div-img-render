@@ -1,5 +1,5 @@
 .App {
-  width: 512px;
+  width: 256px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
