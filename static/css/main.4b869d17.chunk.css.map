@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,WAAY,CACZ,YAAa,CACb,cAAe,CACf,kBAAmB,CACnB,mCACF","file":"main.4b869d17.chunk.css","sourcesContent":[".App {\n  width: 512px;\n  display: flex;\n  flex-wrap: wrap;\n  flex-direction: row;\n  transform: rotateZ(-90deg) scaleX(-1);\n}\n"]}

@@ -1,7 +1,0 @@
-.App {
-  width: 512px;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  transform: rotateZ(-90deg) scaleX(-1);
-}
